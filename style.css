@@ -1,0 +1,15 @@
+body {
+    height: 100vh;
+}
+
+form {
+    height: 50vh;
+    width: 40vh;
+}
+
+#website {
+    height: 30px;
+    outline: none;
+    background: gainsboro;
+    transition: 0.3s;
+} 
